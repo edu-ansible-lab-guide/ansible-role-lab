@@ -9,7 +9,7 @@
 
 ### Clone the following repo:
 
-`https://github.com/ForestTechnologiesLtd/devopsplayground12-Ansible.git`
+`https://github.com/quick-ansible/basic-lab.git`
 
 ### Bringing up the environment:
 
