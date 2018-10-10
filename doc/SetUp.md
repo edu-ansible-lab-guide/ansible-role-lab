@@ -64,7 +64,7 @@ connections. Run the command `ansible -m ping all` to see if our control machine
 gets a response from each box
 
 ### Short Instructions
-1. `git clone https://github.com/ForestTechnologiesLtd/devopsplayground12-Ansible.git`
+1. `git clone https://github.com/quick-ansible/basic-lab.git`
 2. `cd AnsibleMeetUp`
 3. `vagrant ssh control`
 4. __Open a new session__
