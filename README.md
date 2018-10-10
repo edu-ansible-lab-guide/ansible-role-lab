@@ -10,7 +10,7 @@
 
 ### Clone the following repo:
 
-`git clone https://gitlab.com/Pudd1ng/AnsibleMeetUp`
+`https://github.com/quick-ansible/basic-lab.git`
 
 ### Bringing up the environment:
 
